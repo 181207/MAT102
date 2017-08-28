@@ -22,3 +22,4 @@ def main():
 
         print(alfabet[x], alfabet[c], alfabet[y])
 main()
+*//takk peder for en gud
